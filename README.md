@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA , MERN**
 
-- 💬 Ask me about **anything**
+- 💬 Ask me about **Javascript , React ,DataStructures and Algorithms**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1gdCxL9p8oHQhAfw7yGKNRZ0uPnIRpUtU/view?usp=sharing](https://drive.google.com/file/d/1gdCxL9p8oHQhAfw7yGKNRZ0uPnIRpUtU/view?usp=sharing)
 
