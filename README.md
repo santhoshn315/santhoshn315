@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
 <h3 align="center">A passionate developer and tech enthusiast</h3>
 
-- 🌱 I’m currently learning **DSA , MERN**
+- 🌱 I’m currently learning **Lyf, DSA , MERN**
 
 - 💬 Ask me about **Javascript , React ,DataStructures and Algorithms**
 
-- 📄 Know about my experiences https://drive.google.com/file/d/1wlFY7ogxWXW4nZu6wZm8GYRW-UU7j3zc/view?usp=sharing
+- 📄 Know about my experiences https://drive.google.com/file/d/1fZJwI-v4GuN4PFObRE-gF1sSyESsy0Sv/view?usp=sharing
 
 - 📫 How to reach me **santhoshn315@gmail.com**
 
