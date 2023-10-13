@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Santhosh</h1>
 <h3 align="center">A passionate developer and tech enthusiast</h3>
 
-- 🌱 I’m currently learning **Lyf, DSA , MERN**
+- 🌱 I’m currently learning **Lyf, DSA , React.js, node.js**
 
 - 💬 Ask me about **Javascript , React ,DataStructures and Algorithms**
 
