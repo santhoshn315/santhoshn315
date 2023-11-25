@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **Javascript , React ,DataStructures and Algorithms**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1fZJwI-v4GuN4PFObRE-gF1sSyESsy0Sv/view?usp=sharing](https://drive.google.com/file/d/1Cftj2rcvbgcffSeiR39XWj72556bH-WE/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1-0DGm4Dyvw-RvGoKoUc2g8OsMLem5OQ3/view?usp=drive_link](https://drive.google.com/file/d/1-0DGm4Dyvw-RvGoKoUc2g8OsMLem5OQ3/view?usp=drive_link)
 
 - 📫 How to reach me **santhoshn315@gmail.com**
 
