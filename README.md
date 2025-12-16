@@ -2,7 +2,7 @@
 <h3 align="center">A passionate developer and tech enthusiast</h3>
 
 - 🌱 I’m currently learning **Lyf**
-- 📄 Know about my experiences https://santhoshn.netlify.app/
+- 📄 Know about my experiences [https://santhoshn315.github.io/Profile/](https://santhoshn315.github.io/Profile/)
 - 📫 How to reach me **santhoshn315@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
